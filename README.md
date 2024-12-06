@@ -2,7 +2,7 @@
 
 My name is:
 
-<img src="./svgviewer-png-output.png" />
+<img src="./2024-12-06-Joel-Rodriguez.gif" />
 
 <!--
 **joelr-2002/joelr-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
