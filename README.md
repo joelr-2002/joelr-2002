@@ -1,8 +1,8 @@
 # 🌟 Welcome to My GitHub Profile! / ¡Bienvenido a Mi Perfil de GitHub!
 
-<div align="center">
+
     [![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=700&size=40&duration=1740&pause=2000&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Joel!;Welcome+to+my+profile!;%C2%A1Hola+soy+Joel!;%C2%A1Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
-</div>
+
 
 ## 👨‍💻 About Me / Sobre Mí
 Hi! I'm **Joel René Rodríguez Rubio**, a Systems Engineering graduate from The National Autonomous University of Honduras. With a strong passion for programming and problem-solving, I aim to create meaningful and efficient software solutions. My expertise lies in both frontend and backend development.
