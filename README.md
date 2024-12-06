@@ -1,6 +1,6 @@
 # 👋 Hi there! / ¡Hola!
 
-## 🇺🇸 English Version / Versión en Inglés
+<img src="./2024-12-06-Joel-Rodriguez.gif" />
 
 ### About Me / Sobre Mí
 I'm Joel René Rodríguez Rubio, a recent Systems Engineering graduate from The National Autonomous University of Honduras, passionate about programming and problem-solving.
