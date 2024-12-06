@@ -52,6 +52,41 @@ Mi objetivo es seguir aprendiendo y creciendo como desarrollador, adquiriendo nu
 
 ---
 
+## 📚 Learning and Development / Aprendizaje y Desarrollo
+
+I'm currently expanding my knowledge in:
+
+- **Machine Learning and AI**: Exploring the exciting world of artificial intelligence and how it can revolutionize industries.
+- **Cloud Computing**: Learning about AWS and Azure to enhance application scalability and reliability.
+- **Cybersecurity**: Deepening my understanding of cybersecurity best practices to build secure applications.
+
+Actualmente estoy ampliando mi conocimiento en:
+
+- **Aprendizaje Automático e Inteligencia Artificial**: Explorando el mundo fascinante de la inteligencia artificial y cómo puede revolucionar las industrias.
+- **Computación en la Nube**: Aprendiendo sobre AWS y Azure para mejorar la escalabilidad y fiabilidad de las aplicaciones.
+- **Ciberseguridad**: Profundizando en las mejores prácticas de ciberseguridad para construir aplicaciones seguras.
+
+---
+
+## 🌐 Languages / Idiomas
+
+- **English**: Professional proficiency
+- **Spanish**: Native language
+
+- **Inglés**: Dominio profesional
+- **Español**: Idioma nativo
+
+---
+
+## 🧰 Tools and Platforms / Herramientas y Plataformas
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## 📫 Contact / Contacto
 Feel free to reach out to me via [Email](mailto:joelrenerodrigue2002@gmail.com) or connect with me on [GitHub](https://github.com/joelr-2002).
 
