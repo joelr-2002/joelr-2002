@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! / ¡Bienvenido a Mi Perfil de GitHub!
 
 <div align="center">
-    <img src="./2024-12-06-Joel-Rodriguez.gif" alt="Joel Rodríguez" style="width: 70%; max-width: 500px;"/>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=700&size=40&duration=1740&pause=2000&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Joel!;Welcome+to+my+profile!;%C2%A1Hola+soy+Joel!;%C2%A1Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
 </div>
 
 ## 👨‍💻 About Me / Sobre Mí
