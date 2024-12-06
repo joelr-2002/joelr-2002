@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me / Sobre Mí
 Hi! I'm **Joel René Rodríguez Rubio**, a Systems Engineering graduate from The National Autonomous University of Honduras. With a strong passion for programming and problem-solving, I aim to create meaningful and efficient software solutions. My expertise lies in both frontend and backend development.
 
-Hola! Soy **Joel René Rodríguez Rubio**, egresado de Ingeniería en Sistemas de la Universidad Nacional Autónoma de Honduras, apasionado por la programación y la resolución de problemas. Mi enfoque es crear soluciones de software significativas y eficientes, con habilidades tanto en el frontend como en el backend.
+¡Hola! Soy **Joel René Rodríguez Rubio**, egresado de Ingeniería en Sistemas de la Universidad Nacional Autónoma de Honduras, apasionado por la programación y la resolución de problemas. Mi enfoque es crear soluciones de software significativas y eficientes, con habilidades tanto en el frontend como en el backend.
 
 ---
 
